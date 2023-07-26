@@ -1,0 +1,43 @@
+:root {
+  font-size: 16px;
+  --grey-top-color: #f9c104;
+  --grey-bottom-color: #bd6703;
+  --font-color: #fff;
+  font-family: PixelCards;
+}
+
+@font-face {
+  font-family: 'PixelCards';
+  src: url('assets/font/PixelCards.ttf.woff') format('woff'),
+    url('assets/font/PixelCards.ttf.svg#PixelCards') format('svg'),
+    url('assets/font/PixelCards.ttf.eot'),
+    url('assets/font/PixelCards.ttf.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(
+    ellipse at top,
+    var(--grey-top-color) 0%,
+    var(--grey-bottom-color) 60%
+  );
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 0;
+  padding: 0;
+  color: var(--font-color);
+}
+
+p {
+  color: var(--font-color);
+  font-size: 2rem;
+}
