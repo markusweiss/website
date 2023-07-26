@@ -1,3 +1,3 @@
 # website
 
-## testing githib pages
+## testing github pages
