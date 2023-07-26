@@ -24,6 +24,7 @@ body {
     var(--grey-top-color) 0%,
     var(--grey-bottom-color) 60%
   );
+  background-attachment: fixed;
   display: flex;
   flex-direction: column;
   justify-content: center;
