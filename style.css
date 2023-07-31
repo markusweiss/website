@@ -58,6 +58,13 @@ body {
   opacity: 0;
 }
 
+#readme-container {
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  color: var(--font-color);
+}
+
 @keyframes shake {
   0% {
     transform: translateX(0);

@@ -60,4 +60,40 @@ function shakeElement(element) {
   applyShake();
 }
 
+const repoOwner = 'markusweiss';
+const repoName = 'website';
+const readmePath = 'README.md';
+
+const readmeUrl = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/main/${readmePath}`;
+
+async function getReadme() {
+  try {
+    const response = await fetch(readmeUrl);
+
+    if (!response.ok) {
+      throw new Error('Unable to fetch README.md file.');
+    }
+
+    const readmeContent = await response.text();
+    return readmeContent;
+  } catch (error) {
+    console.error('Error fetching README.md:', error);
+    return null;
+  }
+}
+
+function convertToHtml(markdownText) {
+  return marked(markdownText);
+}
+async function displayReadmeAsHtml() {
+  const readmeContent = await getReadme();
+  if (readmeContent) {
+    const htmlContent = convertToHtml(readmeContent);
+    const readmeContainer = document.getElementById('readme-container');
+    readmeContainer.innerHTML = htmlContent;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', displayReadmeAsHtml);
+
 document.addEventListener('DOMContentLoaded', fadeText);
