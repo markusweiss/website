@@ -16,7 +16,7 @@ add Info Box
 
 ## 01-08-2023
 
-checking todos in Tello
+checking todos in Trello
 
 ## 31-07-2023
 
