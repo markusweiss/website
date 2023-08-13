@@ -6,6 +6,10 @@ do most level stuff
 
 finalise demo
 
+## 06-08-2023
+
+first steps jump and run test game
+
 ## 02-08-2023
 
 add Info Box
