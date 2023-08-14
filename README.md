@@ -1,3 +1,7 @@
+## 14-08-2023
+
+brainstorming next steps
+
 ## 13-08-2023
 
 do most level stuff
