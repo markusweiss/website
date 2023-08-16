@@ -1,3 +1,7 @@
+## 16-08-2023
+
+meeting and brainstorming
+
 ## 14-08-2023
 
 brainstorming next steps
