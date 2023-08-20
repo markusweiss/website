@@ -1,3 +1,7 @@
+## 20-08-2023
+
+GameJam begins
+
 ## 19-08-2023
 
 GameJam preparation
