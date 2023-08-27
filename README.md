@@ -1,3 +1,7 @@
+## 26-08-2023
+
+first GameJam done
+
 ## 20-08-2023
 
 GameJam begins
