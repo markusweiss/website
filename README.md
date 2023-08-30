@@ -1,3 +1,7 @@
+## 30-08-2023
+
+planning first real projekt
+
 ## 26-08-2023
 
 first GameJam done
