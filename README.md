@@ -2,6 +2,10 @@
 
 planning first real projekt
 
+## 29-08-2023
+
+prototype save system
+
 ## 26-08-2023
 
 first GameJam done
