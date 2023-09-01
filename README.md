@@ -1,3 +1,7 @@
+## 01-09-2023
+
+brainstorming
+
 ## 30-08-2023
 
 planning first real projekt
