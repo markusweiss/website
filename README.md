@@ -1,6 +1,6 @@
 ## 05-05-2023
 
-prototyping bying with food
+prototyping buying with food
 
 ## 03-09-2023
 
