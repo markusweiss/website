@@ -1,4 +1,8 @@
-## 05-05-2023
+## 10-09-2023
+
+proud of place 339 in jam
+
+## 05-09-2023
 
 prototyping buying with food
 
