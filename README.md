@@ -1,6 +1,6 @@
 ## 13-09-2023
 
-testing som functions
+testing some functions
 
 ## 11-09-2023
 
