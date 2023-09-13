@@ -1,3 +1,7 @@
+## 13-09-2023
+
+testing som functions
+
 ## 11-09-2023
 
 some test for prototype
