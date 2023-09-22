@@ -1,3 +1,7 @@
+## 20-09-2023
+
+updating game jam project
+
 ## 18-09-2023
 
 testing ios exports
