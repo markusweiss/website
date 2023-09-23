@@ -1,3 +1,7 @@
+## 23-09-2023
+
+prototype meeting
+
 ## 20-09-2023
 
 updating game jam project
