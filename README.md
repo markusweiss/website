@@ -1,3 +1,7 @@
+## 02-20-2023
+
+finsihed GameJam
+
 ## 01-10-2023
 
 working hard on LudumDare54 GameJam
