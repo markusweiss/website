@@ -1,6 +1,10 @@
+## 03-10-2023
+
+rework LudumDare54
+
 ## 02-10-2023
 
-finsihed GameJam
+finished GameJam
 
 ## 01-10-2023
 
