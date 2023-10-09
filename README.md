@@ -1,3 +1,7 @@
+## 06-10-2023
+
+project meeting
+
 ## 05-10-2023
 
 some shader and particle test/fixes
