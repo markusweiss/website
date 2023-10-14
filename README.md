@@ -1,3 +1,7 @@
+## 11-10-2023
+
+doing some jam stuff (votes, testing...)
+
 ## 10-10-2023
 
 testing balancing prototype
