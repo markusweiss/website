@@ -1,8 +1,13 @@
+## 19-10-2023
+
+adding difficulty levels to LD Game
+
 ## 18-10-2023
 
 last vote Ludum Dare, post processing
 
 ## 16-10-2023
+
 Updating tests
 
 ## 15-10-2023
