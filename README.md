@@ -1,3 +1,7 @@
+## 25-10-2023
+
+Meeting for MVP preparation
+
 ## 23-10-2023
 
 organizational stuff
