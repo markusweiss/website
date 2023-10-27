@@ -1,3 +1,7 @@
+## 26-10-2023
+
+Making folder structure MVP
+
 ## 25-10-2023
 
 Meeting for MVP preparation
