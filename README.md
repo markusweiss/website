@@ -1,10 +1,11 @@
+
 ## 26-10-2023
 
-Making folder structure MVP
+making folder structure MVP
 
 ## 25-10-2023
 
-Meeting for MVP preparation
+meeting for MVP preparation
 
 ## 23-10-2023
 
@@ -24,15 +25,15 @@ last vote Ludum Dare, post processing
 
 ## 16-10-2023
 
-Updating tests
+updating tests
 
 ## 15-10-2023
 
-Migrating php testing to godot
+migrating php testing to godot
 
 ## 13-10-2023
 
-Testing Tower Defence part
+testing Tower Defence part
 
 ## 11-10-2023
 
