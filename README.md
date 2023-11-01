@@ -1,3 +1,6 @@
+## 28-10-2023
+
+first steps MVP, migrating php function
 
 ## 26-10-2023
 
