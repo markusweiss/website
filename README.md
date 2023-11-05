@@ -1,3 +1,7 @@
+## 01-11-2023
+
+Meeting for Sideproject
+
 ## 31-10-2023
 
 Halloween Cooking :)
