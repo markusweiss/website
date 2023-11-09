@@ -1,10 +1,14 @@
+## 03-11-2023
+
+starting dart
+
 ## 01-11-2023
 
-Meeting for Sideproject
+meeting for sideproject
 
 ## 31-10-2023
 
-Halloween Cooking :)
+Halloween cooking :)
 
 ## 30-10-2023
 
