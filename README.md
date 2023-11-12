@@ -1,3 +1,7 @@
+## 09-11-2023
+
+install App Dev chain
+
 ## 07-11-2023
 
 learning dart stuff
