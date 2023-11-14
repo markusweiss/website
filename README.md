@@ -1,3 +1,7 @@
+## 10-11-2034
+
+first demo app on ios and android
+
 ## 09-11-2023
 
 install App Dev chain
