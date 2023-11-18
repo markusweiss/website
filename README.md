@@ -1,6 +1,10 @@
+# 14-11-2023
+
+Flutter testing app
+
 ## 13-11-2023
 
-Api Meeting
+Api meeting
 
 ## 11-11-2023
 
@@ -8,7 +12,7 @@ learning more dart
 
 ## 10-11-2023
 
-first demo app on ios and android
+first demo app on IOS and Android
 
 ## 09-11-2023
 
