@@ -1,3 +1,7 @@
+## 15-11-2023
+
+preparations and meeting
+
 ## 14-11-2023
 
 Flutter testing app
