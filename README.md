@@ -1,3 +1,7 @@
+## 24-11-2023
+
+finally first working android export :)
+
 ## 22-11-2023
 
 testing android export
