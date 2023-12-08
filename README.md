@@ -1,4 +1,32 @@
-## 30-11-2023
+<!--
+
+## 08-12-2023
+
+more debugging load config
+
+## 07-12-2023
+
+debugging load config and navi
+
+## 06-12-2023
+
+first ios version :D
+
+## 05-12-2023
+
+finally getting certificates
+
+## 04-12-2023
+
+change animations
+
+## 03-12-2023
+
+more backgrounds
+
+-->
+
+## 02-12-2023
 
 working on certificates
 
