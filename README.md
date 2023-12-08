@@ -1,14 +1,18 @@
+## 28-11-2023
+
+finally first working android export :)
+
 ## 26-11-2023
 
-first debug android version
+planning and meeting
 
 ## 25-11-2023
 
-testing on hardware
+testing new alpha version
 
 ## 24-11-2023
 
-finally first working android export :)
+more testing
 
 ## 22-11-2023
 
