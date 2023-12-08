@@ -1,3 +1,7 @@
+## 30-11-2023
+
+working on certificates
+
 ## 28-11-2023
 
 finally first working android export :)
