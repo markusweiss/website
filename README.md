@@ -1,3 +1,7 @@
+## 26-11-2023
+
+first debug android version
+
 ## 25-11-2023
 
 testing on hardware
