@@ -1,4 +1,23 @@
 <!--
+## 14-12-2023
+
+optimising, checking external vars
+
+## 13-12-2023
+
+new gfx and admob
+
+## 12-12-2023
+
+polishing
+
+## 10-12-2023
+
+first archivement test
+
+## 09-12-2023
+
+making multi language support
 
 ## 08-12-2023
 
