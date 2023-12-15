@@ -26,6 +26,7 @@ more debugging load config
 ## 07-12-2023
 
 debugging load config and navi
+-->
 
 ## 06-12-2023
 
@@ -35,7 +36,6 @@ first ios version :D
 
 finally getting certificates
 
--->
 ## 04-12-2023
 
 change animations
