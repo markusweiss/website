@@ -1,4 +1,12 @@
 <!--
+## 18-12-2023
+
+learning Admob
+
+## 17-12-2023
+
+meeting Admob
+
 ## 14-12-2023
 
 optimising, checking external vars
@@ -14,9 +22,9 @@ polishing
 ## 10-12-2023
 
 first archivement test
+-->
 
 ## 09-12-2023
--->
 
 making multi language support
 
