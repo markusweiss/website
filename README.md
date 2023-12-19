@@ -1,4 +1,8 @@
 <!--
+## 19-12-2023
+
+finalising Android app version
+
 ## 18-12-2023
 
 learning Admob
@@ -18,11 +22,12 @@ new gfx and admob
 ## 12-12-2023
 
 polishing
+-->
 
 ## 10-12-2023
 
 first archivement test
--->
+
 
 ## 09-12-2023
 
