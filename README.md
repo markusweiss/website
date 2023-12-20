@@ -1,4 +1,8 @@
 <!--
+## 20-12-2023
+
+finalising IOS app version
+
 ## 19-12-2023
 
 finalising Android app version
@@ -18,11 +22,10 @@ optimising, checking external vars
 ## 13-12-2023
 
 new gfx and admob
-
+-->
 ## 12-12-2023
 
 polishing
--->
 
 ## 10-12-2023
 
