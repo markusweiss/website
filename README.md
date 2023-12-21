@@ -1,4 +1,8 @@
 <!--
+## 21-12-2023
+
+can change ad from config
+
 ## 20-12-2023
 
 finalising IOS app version
@@ -14,11 +18,11 @@ learning Admob
 ## 17-12-2023
 
 meeting Admob
-
+-->
 ## 14-12-2023
 
 optimising, checking external vars
--->
+
 ## 13-12-2023
 
 new gfx and admob
