@@ -14,11 +14,11 @@ finalising Android app version
 ## 18-12-2023
 
 learning Admob
-
+-->
 ## 17-12-2023
 
 meeting Admob
--->
+
 ## 14-12-2023
 
 optimising, checking external vars
