@@ -1,4 +1,8 @@
 <!--
+## 23-12-2023
+
+preparation for store entry
+
 ## 21-12-2023
 
 can change ad from config
@@ -10,11 +14,11 @@ finalising IOS app version
 ## 19-12-2023
 
 finalising Android app version
-
+-->
 ## 18-12-2023
 
 learning Admob
--->
+
 ## 17-12-2023
 
 meeting Admob
