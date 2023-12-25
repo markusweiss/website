@@ -6,11 +6,12 @@ preparation for store entry
 ## 21-12-2023
 
 can change ad from config
+-->
 
 ## 20-12-2023
 
 finalising IOS app version
--->
+
 ## 19-12-2023
 
 finalising Android app version
