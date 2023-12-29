@@ -1,12 +1,17 @@
 <!--
+## 29-12-2023
+
+testing share functions
+
 ## 28-12-2023
 
 planning share function
+-->
 
 ## 23-12-2023
 
 preparation for store entry
--->
+
 ## 21-12-2023
 
 can change ad from config
