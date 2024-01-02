@@ -1,4 +1,8 @@
 <!--
+## 02-01-2024
+
+app submission to Apple
+
 ## 01-01-2024
 
 preparing logo and apps website
@@ -6,11 +10,12 @@ preparing logo and apps website
 ## 31-12-2023
 
 customise sharing
+-->
 
 ## 30-12-2023
 
 Meeting, complete concept change
--->
+
 
 ## 29-12-2023
 
