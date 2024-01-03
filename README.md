@@ -1,4 +1,8 @@
 <!--
+## 03-01-2024
+
+iOS app is live :D
+
 ## 02-01-2024
 
 app submission to Apple
@@ -6,11 +10,11 @@ app submission to Apple
 ## 01-01-2024
 
 preparing logo and apps website
-
+-->
 ## 31-12-2023
 
 customise sharing
--->
+
 
 ## 30-12-2023
 
