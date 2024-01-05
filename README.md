@@ -1,4 +1,8 @@
 <!--
+## 05-01-2024
+
+changing daily cookies
+
 ## 04-01-2024
 
 preparing new update
@@ -10,11 +14,10 @@ iOS app is live :D
 ## 02-01-2024
 
 app submission to Apple
-
+-->
 ## 01-01-2024
 
 preparing logo and apps website
--->
 
 ## 31-12-2023
 
