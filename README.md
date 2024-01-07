@@ -1,4 +1,8 @@
 <!--
+## 07-01-2024
+
+add new vote button
+
 ## 05-01-2024
 
 changing daily cookies
@@ -8,13 +12,14 @@ changing daily cookies
 preparing new update
 
 ## 03-01-2024
+-->
 
 iOS app is live :D
 
 ## 02-01-2024
 
 app submission to Apple
--->
+
 ## 01-01-2024
 
 preparing logo and apps website
