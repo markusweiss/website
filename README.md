@@ -1,4 +1,8 @@
 <!--
+## 08-01-2024
+
+add control for master volume
+
 ## 07-01-2024
 
 add new vote button
@@ -10,9 +14,9 @@ changing daily cookies
 ## 04-01-2024
 
 preparing new update
+-->
 
 ## 03-01-2024
--->
 
 iOS app is live :D
 
