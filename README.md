@@ -1,4 +1,8 @@
 <!--
+## 13-01-2024
+
+new update released
+
 ## 12-01-2024
 
 send Version 1.1 to Apple store
@@ -18,11 +22,10 @@ add control for master volume
 ## 07-01-2024
 
 add new vote button
-
+-->
 ## 05-01-2024
 
 changing daily cookies
--->
 
 ## 04-01-2024
 
