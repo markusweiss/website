@@ -1,4 +1,8 @@
 <!--
+## 19-01-2024
+
+regular job stuff and waitung for google
+
 ## 13-01-2024
 
 new update released
@@ -14,11 +18,11 @@ testing new Version 1.1
 ## 09-01-2024
 
 preparing for new DB
-
+-->
 ## 08-01-2024
 
 add control for master volume
--->
+
 ## 07-01-2024
 
 add new vote button
