@@ -1,4 +1,8 @@
 <!--
+## 23-01-2024
+
+android version for internal testing
+
 ## 21-01-2024
 
 add forms again for google account
@@ -11,8 +15,9 @@ regular job stuff and waitung for google
 
 new update released
 
-## 12-01-2024
 -->
+## 12-01-2024
+
 send Version 1.1 to Apple store
 
 ## 10-01-2024
