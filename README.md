@@ -1,7 +1,7 @@
 <!--
 ## 28-01-2024
 
-the pain of android submission
+android submission is a pain
 
 ## 25-01-2024
 
