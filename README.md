@@ -1,4 +1,8 @@
 <!--
+## 02-02-2024
+
+waiting for google, its exhausting
+
 ## 28-01-2024
 
 android submission is a pain
@@ -10,11 +14,12 @@ add data and screens for android submission
 ## 24-01-2024
 
 final prod test android version
+-->
 
 ## 23-01-2024
 
 android version for internal testing
--->
+
 ## 21-01-2024
 
 add forms again for google account
