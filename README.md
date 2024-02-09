@@ -1,5 +1,9 @@
 <!--
-## 05-20-2024
+## 08-02-2024
+
+no google response, sending ticket
+
+## 05-02-2024
 
 no infos from google, again and again
 
