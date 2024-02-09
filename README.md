@@ -14,11 +14,12 @@ waiting for google, its exhausting
 ## 28-01-2024
 
 android submission is a pain
+-->
 
 ## 25-01-2024
 
 add data and screens for android submission
--->
+
 ## 24-01-2024
 
 final prod test android version
