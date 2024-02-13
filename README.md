@@ -1,4 +1,8 @@
 <!--
+## 10-02-2024
+
+response from google, waiting again 7 days
+
 ## 08-02-2024
 
 no google response, sending ticket
@@ -10,11 +14,10 @@ no infos from google, again and again
 ## 02-02-2024
 
 waiting for google, its exhausting
-
+-->
 ## 28-01-2024
 
 android submission is a pain
--->
 
 ## 25-01-2024
 
