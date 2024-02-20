@@ -1,7 +1,15 @@
 <!--
+## 20-02-2024
+
+sending feedback to google
+
+## 19-02-2024
+
+add version to review again
+
 ## 18-02-2024
 
-send to playstore again
+prepare new version for playstore again
 
 ## 17-05-2024
 
@@ -14,12 +22,11 @@ after 5 days rejected, i hate it
 ## 10-02-2024
 
 response from google, waiting again 7 days
-
+-->
 ## 08-02-2024
 
 no google response, sending ticket
 
--->
 ## 05-02-2024
 
 no infos from google, again and again
