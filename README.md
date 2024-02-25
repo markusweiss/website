@@ -1,4 +1,8 @@
 <!--
+## 25-02-2024
+
+planning new game
+
 ## 23-02-2024
 
 we are live with the google app, finally!
@@ -14,11 +18,10 @@ add version to review again
 ## 18-02-2024
 
 prepare new version for playstore again
-
+-->
 ## 17-05-2024
 
 updating Android App
--->
 
 ## 15-02-2024
 
