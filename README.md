@@ -1,4 +1,8 @@
 <!--
+## 27-02-2024
+
+sketching, new ideas for controls
+
 ## 25-02-2024
 
 planning new game
@@ -14,11 +18,12 @@ sending feedback to google
 ## 19-02-2024
 
 add version to review again
+-->
 
 ## 18-02-2024
 
 prepare new version for playstore again
--->
+
 ## 17-05-2024
 
 updating Android App
