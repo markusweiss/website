@@ -1,4 +1,8 @@
 <!--
+## 02-03-2024
+
+setting up new project
+
 ## 27-02-2024
 
 sketching, new ideas for controls
@@ -14,11 +18,10 @@ we are live with the google app, finally!
 ## 20-02-2024
 
 sending feedback to google
-
+-->
 ## 19-02-2024
 
 add version to review again
--->
 
 ## 18-02-2024
 
