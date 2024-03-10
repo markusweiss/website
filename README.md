@@ -1,4 +1,8 @@
 <!--
+## 06-03-2024
+
+test of controls
+
 ## 02-03-2024
 
 setting up new project
@@ -6,11 +10,12 @@ setting up new project
 ## 27-02-2024
 
 sketching, new ideas for controls
+-->
 
 ## 25-02-2024
 
 planning new game
--->
+
 ## 23-02-2024
 
 we are live with the google app, finally!
