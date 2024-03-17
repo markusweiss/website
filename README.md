@@ -1,4 +1,8 @@
 <!--
+## 17-03-2024
+
+planning gquiz api
+
 ## 14-03-2024
 
 sketching, new idea
@@ -10,11 +14,11 @@ call talking Quiz idea
 ## 09-03-2024
 
 new idea Quiz
-
+-->
 ## 06-03-2024
 
 test of controls
--->
+
 ## 02-03-2024
 
 setting up new project
