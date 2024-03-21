@@ -17,7 +17,7 @@ sketching, new idea
 
 ## 12-03-2024
 
-call, talking about quiz idea
+brainstorming about quiz idea
 
 ## 09-03-2024
 
