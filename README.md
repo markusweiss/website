@@ -1,7 +1,15 @@
 <!--
+## 19-03-2024
+
+meeting, need better idea for quiz
+
+## 18-03-2024
+
+test controls deliver game
+
 ## 17-03-2024
 
-planning gquiz api
+tallking about quiz api
 
 ## 14-03-2024
 
@@ -9,11 +17,11 @@ sketching, new idea
 
 ## 12-03-2024
 
-call talking Quiz idea
+call, talking about quiz idea
 
 ## 09-03-2024
 
-new idea Quiz
+new idea for a quiz
 -->
 ## 06-03-2024
 
