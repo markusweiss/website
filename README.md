@@ -1,4 +1,8 @@
 <!--
+## 23-03-2024
+
+add types, test a function
+
 ## 21-03-2024
 
 refactor controls
