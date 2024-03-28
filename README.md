@@ -1,4 +1,8 @@
 <!--
+## 26-03-2024
+
+working on cookie app update 1.2
+
 ## 23-03-2024
 
 add types, test a function
@@ -14,11 +18,11 @@ meeting, need better idea for quiz
 ## 18-03-2024
 
 test controls deliver game
+-->
 
 ## 17-03-2024
 
 tallking about quiz api
--->
 
 ## 14-03-2024
 
