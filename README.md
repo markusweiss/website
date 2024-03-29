@@ -1,4 +1,8 @@
 <!--
+## 29-03-2024
+
+new Update Cookie App for Apple Store
+
 ## 28-03-2024
 
 Testflight version for cookie app
