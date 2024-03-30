@@ -1,4 +1,8 @@
 <!--
+## 30-03-2024
+
+Apple is fast, update is live
+
 ## 29-03-2024
 
 new Update Cookie App for Apple Store
