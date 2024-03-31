@@ -25,12 +25,12 @@ add types, test a function
 
 ## 21-03-2024
 
-refactor controls
-
+refactor controls of deliver game
+-->
 ## 19-03-2024
 
 meeting, need better idea for quiz
--->
+
 ## 18-03-2024
 
 test controls deliver game
