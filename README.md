@@ -22,11 +22,12 @@ working on cookie app update 1.2
 ## 23-03-2024
 
 add types, test a function
+-->
 
 ## 21-03-2024
 
 refactor controls of deliver game
--->
+
 ## 19-03-2024
 
 meeting, need better idea for quiz
