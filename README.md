@@ -1,7 +1,11 @@
 <!--
+## 10-04-2024
+
+moving Android update
+
 ## 02-04-2024
 
-planning Abdroid update
+motivating for Android update
 
 ## 30-03-2024
 
@@ -10,11 +14,10 @@ Apple is fast, update is live
 ## 29-03-2024
 
 new Update Cookie App for Apple Store
-
+-->
 ## 28-03-2024
 
 Testflight version for cookie app
--->
 
 ## 27-03-2024
 
