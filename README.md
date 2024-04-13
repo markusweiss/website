@@ -13,7 +13,7 @@ Apple is fast, update is live
 
 ## 29-03-2024
 
-new Update Cookie App for Apple Store
+new update cookie app for Apple store
 -->
 ## 28-03-2024
 
@@ -89,11 +89,11 @@ add version to review again
 
 ## 18-02-2024
 
-prepare new version for playstore again
+prepare new version for Playstore again
 
 ## 17-05-2024
 
-updating Android App
+updating Android app
 
 ## 15-02-2024
 
@@ -126,7 +126,7 @@ add data and screens for android submission
 
 ## 24-01-2024
 
-final prod test android version
+final prod test Android version
 
 
 ## 23-01-2024
@@ -135,11 +135,11 @@ android version for internal testing
 
 ## 21-01-2024
 
-add forms again for google account
+add forms again for Google account
 
 ## 19-01-2024
 
-regular job stuff and waitung for google
+regular job stuff and waitung for Google
 
 ## 13-01-2024
 
@@ -275,7 +275,7 @@ working on certificates
 
 ## 28-11-2023
 
-finally first working android export :)
+finally first working Android export :)
 
 ## 26-11-2023
 
@@ -291,7 +291,7 @@ more testing
 
 ## 22-11-2023
 
-testing android export
+testing Android export
 
 ## 20-11-2023
 
