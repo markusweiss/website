@@ -10,11 +10,11 @@ motivating for Android update
 ## 30-03-2024
 
 Apple is fast, update is live
-
+-->
 ## 29-03-2024
 
 new update cookie app for Apple store
--->
+
 ## 28-03-2024
 
 Testflight version for cookie app
