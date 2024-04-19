@@ -1,4 +1,8 @@
 <!--
+## 18-04-2024
+
+build Android update
+
 ## 10-04-2024
 
 moving Android update
@@ -6,11 +10,11 @@ moving Android update
 ## 02-04-2024
 
 motivating for Android update
-
+-->
 ## 30-03-2024
 
 Apple is fast, update is live
--->
+
 ## 29-03-2024
 
 new update cookie app for Apple store
