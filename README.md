@@ -1,16 +1,16 @@
 <!--
 ## 18-04-2024
 
-build Android update
+testing some Godot plugins
 
 ## 10-04-2024
 
 moving Android update
-
+-->
 ## 02-04-2024
 
 motivating for Android update
--->
+
 ## 30-03-2024
 
 Apple is fast, update is live
