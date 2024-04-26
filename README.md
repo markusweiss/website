@@ -1,4 +1,8 @@
 <!--
+## 26-04-2024
+
+new Mac Book M3 configuration
+
 ## 25-04-2024
 
 collecting informations
