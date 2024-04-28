@@ -1,4 +1,8 @@
 <!--
+## 27-04-2024
+
+testing some Godot stuff
+
 ## 26-04-2024
 
 new Mac Book M3 configuration
