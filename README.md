@@ -6,11 +6,11 @@ new Mac Book M3 configuration
 ## 25-04-2024
 
 collecting informations
-
+-->
 ## 20-04-2024
 
 testing esp32 camera with Adurino IDE
--->
+
 ## 18-04-2024
 
 testing some Godot plugins
