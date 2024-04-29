@@ -1,4 +1,8 @@
 <!--
+## 28-04-2024
+
+watching new Godot tutorial
+
 ## 27-04-2024
 
 testing some Godot stuff
@@ -11,6 +15,7 @@ new Mac Book M3 configuration
 
 collecting informations
 -->
+
 ## 20-04-2024
 
 testing esp32 camera with Adurino IDE
