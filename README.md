@@ -1,4 +1,8 @@
 <!--
+## 30-04-2024
+
+searching for a new GameJam
+
 ## 28-04-2024
 
 watching new Godot tutorial
