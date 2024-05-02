@@ -1,4 +1,8 @@
 <!--
+## 01-05-2024
+
+check out #Spring2DJam and/or #godotwildjam
+
 ## 30-04-2024
 
 searching for a new GameJam
