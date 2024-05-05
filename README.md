@@ -1,7 +1,7 @@
 <!--
 ## 05-05-2024
 
-testing old openai projects 
+playing around with old openai projects 
 
 ## 04-05-2024
 
@@ -22,11 +22,11 @@ watching new Godot tutorial
 ## 27-04-2024
 
 testing some Godot stuff
-
+-->
 ## 26-04-2024
 
 new Mac Book M3 configuration
--->
+
 ## 25-04-2024
 
 collecting informations
