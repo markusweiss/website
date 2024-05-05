@@ -1,4 +1,8 @@
 <!--
+## 05-05-2024
+
+testing old openai projects 
+
 ## 04-05-2024
 
 working on first Godot Template draft 
