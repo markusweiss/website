@@ -1,4 +1,8 @@
 <!--
+## 04-05-2024
+
+working on first Godot Template draft 
+
 ## 01-05-2024
 
 check out #Spring2DJam and/or #godotwildjam
