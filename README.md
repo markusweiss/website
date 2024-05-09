@@ -21,12 +21,13 @@ searching for a new GameJam
 
 ## 28-04-2024
 
-watching new Godot tutorial
+watching new Godot tutorials
+-->
 
 ## 27-04-2024
 
 testing some Godot stuff
--->
+
 ## 26-04-2024
 
 new Mac Book M3 configuration
