@@ -1,4 +1,8 @@
 <!--
+## 08-05-2024
+
+planning meeting for Godot Wild Jam
+
 ## 05-05-2024
 
 playing around with old openai projects 
