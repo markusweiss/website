@@ -18,11 +18,11 @@ check out #Spring2DJam and/or #godotwildjam
 ## 30-04-2024
 
 searching for a new GameJam
+-->
 
 ## 28-04-2024
 
 watching new Godot tutorials
--->
 
 ## 27-04-2024
 
