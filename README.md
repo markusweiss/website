@@ -1,4 +1,12 @@
 <!--
+## 12-05-2024
+
+
+
+## 11-05-2024
+
+checking out Trijam
+
 ## 08-05-2024
 
 planning meeting for Godot Wild Jam
