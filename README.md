@@ -1,11 +1,11 @@
 <!--
 ## 12-05-2024
 
-
+invitation to podcast
 
 ## 11-05-2024
 
-checking out Trijam
+checking out #Trijam
 
 ## 08-05-2024
 
@@ -18,11 +18,11 @@ playing around with old openai projects
 ## 04-05-2024
 
 working on first Godot Template draft 
+-->
 
 ## 01-05-2024
 
 check out #Spring2DJam and/or #godotwildjam
--->
 
 ## 30-04-2024
 
