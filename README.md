@@ -17,12 +17,12 @@ planning meeting for Godot Wild Jam
 
 ## 05-05-2024
 
-playing around with old openai projects 
+playing around with old openAI projects 
+-->
 
 ## 04-05-2024
 
 working on first Godot Template draft 
--->
 
 ## 01-05-2024
 
