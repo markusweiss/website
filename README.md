@@ -14,11 +14,11 @@ checking out #Trijam
 ## 08-05-2024
 
 planning meeting for Godot Wild Jam
+-->
 
 ## 05-05-2024
 
 playing around with old openAI projects 
--->
 
 ## 04-05-2024
 
