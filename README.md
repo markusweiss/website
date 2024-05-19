@@ -18,11 +18,11 @@ testing a lot of GameJam games and give some feedback
 ## 10-05-2024
 
 checking out #Trijam
+-->
 
 ## 08-05-2024
 
 planning meeting for Godot Wild Jam
--->
 
 ## 05-05-2024
 
