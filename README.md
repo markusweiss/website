@@ -1,4 +1,12 @@
 <!--
+## 21-04-2024
+
+testing GameJam games
+
+## 19-05-2024
+
+trying more tutorial stuff
+
 ## 17-05-2024
 
 new podcast session today
