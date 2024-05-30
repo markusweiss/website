@@ -1,5 +1,9 @@
 <!--
-## 21-04-2024
+## 29-05-2024
+
+busy days no time for game dev
+
+## 21-05-2024
 
 testing GameJam games
 
@@ -14,11 +18,11 @@ new podcast session today
 ## 16-05-2024
 
 preparing to podcast
-
+-->
 ## 12-05-2024
 
 invitation to podcast
--->
+
 ## 11-05-2024
 
 testing a lot of GameJam games and give some feedback
