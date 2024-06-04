@@ -20,6 +20,11 @@ testing GameJam games
 trying more tutorial stuff
 -->
 
+## 18-05-2024
+
+podcast episode is out now
+
+
 ## 17-05-2024
 
 new podcast session today
