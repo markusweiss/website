@@ -1,4 +1,8 @@
 <!--
+## 08-06-24
+
+working on godot template
+
 ## 04-06-2024
 
 add demo music loop
