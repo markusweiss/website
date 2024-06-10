@@ -1,7 +1,11 @@
 <!--
+## 09-06-24
+
+working on Godot template again in train
+
 ## 08-06-24
 
-working on godot template
+working on Godot template
 
 ## 04-06-2024
 
@@ -13,7 +17,7 @@ doing structure and simple player navigation
 
 ## 01-06-2024
 
-start first godot template
+start first Godot template
 
 ## 29-05-2024
 
