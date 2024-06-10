@@ -22,20 +22,19 @@ start first Godot template
 ## 29-05-2024
 
 busy days no time for game dev
+-->
 
 ## 21-05-2024
 
 testing GameJam games
--->
+
 ## 19-05-2024
 
 trying more tutorial stuff
 
-
 ## 18-05-2024
 
 podcast episode is out now
-
 
 ## 17-05-2024
 
