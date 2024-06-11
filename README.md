@@ -18,11 +18,10 @@ doing structure and simple player navigation
 ## 01-06-2024
 
 start first Godot template
-
+-->
 ## 29-05-2024
 
 busy days no time for game dev
--->
 
 ## 21-05-2024
 
