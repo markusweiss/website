@@ -1,7 +1,11 @@
 <!--
+## 12-06-24
+
+short meeting for TriJam
+
 ## 09-06-24
 
-working on Godot template again in train
+working on Godot template in train again
 
 ## 08-06-24
 
@@ -14,11 +18,12 @@ add demo music loop
 ## 02-06-2024
 
 doing structure and simple player navigation
+-->
 
 ## 01-06-2024
 
 start first Godot template
--->
+
 ## 29-05-2024
 
 busy days no time for game dev
