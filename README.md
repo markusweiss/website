@@ -1,4 +1,8 @@
 <!--
+## 15-06-24
+
+starting on TriJam
+
 ## 12-06-24
 
 short meeting for TriJam
