@@ -22,11 +22,11 @@ working on Godot template
 ## 04-06-2024
 
 add demo music loop
+-->
 
 ## 02-06-2024
 
 doing structure and simple player navigation
--->
 
 ## 01-06-2024
 
