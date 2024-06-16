@@ -1,11 +1,11 @@
 <!--
 ## 16-06-24
 
-uploading our minigame
+preparing our minigame "Buy & Sell" for the vote
 
 ## 15-06-24
 
-starting on TriJam
+starting on TriJam#274
 
 ## 12-06-24
 
