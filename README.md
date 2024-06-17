@@ -1,4 +1,8 @@
 <!--
+## 17-06-24
+
+TriJam vote started today 
+
 ## 16-06-24
 
 preparing our minigame "Buy & Sell" for the vote
