@@ -1,4 +1,8 @@
 <!--
+## 20-06-24
+
+yeah 4th place on #Trijam
+
 ## 18-06-24
 
 play testing and rating other entries
