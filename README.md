@@ -22,11 +22,11 @@ starting on TriJam#274
 ## 12-06-24
 
 short meeting for TriJam
-
+-->
 ## 09-06-24
 
 working on Godot template in train again
--->
+
 ## 08-06-24
 
 working on Godot template
