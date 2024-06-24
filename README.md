@@ -1,7 +1,7 @@
 <!--
 ## 20-06-24
 
-yeah 4th place on #Trijam
+yeahaa! 4th place on #Trijam
 
 ## 18-06-24
 
@@ -18,11 +18,11 @@ preparing our minigame "Buy & Sell" for the vote
 ## 15-06-24
 
 starting on TriJam#274
-
+-->
 ## 12-06-24
 
 short meeting for TriJam
--->
+
 ## 09-06-24
 
 working on Godot template in train again
