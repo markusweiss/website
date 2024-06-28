@@ -14,11 +14,11 @@ TriJam vote started today
 ## 16-06-24
 
 preparing our minigame "Buy & Sell" for the vote
-
+-->
 ## 15-06-24
 
 starting on TriJam#274
--->
+
 ## 12-06-24
 
 short meeting for TriJam
