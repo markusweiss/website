@@ -1,4 +1,12 @@
 <!--
+## 28-06-24
+
+order the Godot plushi :)
+
+## 24-06-24
+
+Godot research and daily business
+
 ## 20-06-24
 
 yeahaa! 4th place on #Trijam
@@ -9,12 +17,13 @@ play testing and rating other entries
 
 ## 17-06-24
 
-TriJam vote started today 
+TriJam vote started today
 
+-->
 ## 16-06-24
 
 preparing our minigame "Buy & Sell" for the vote
--->
+
 ## 15-06-24
 
 starting on TriJam#274
