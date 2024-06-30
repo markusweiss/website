@@ -14,12 +14,11 @@ yeahaa! 4th place on #Trijam
 ## 18-06-24
 
 play testing and rating other entries
-
+-->
 ## 17-06-24
 
 TriJam#274 vote started today
 
--->
 ## 16-06-24
 
 preparing our minigame "Buy & Sell" for the vote
