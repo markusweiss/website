@@ -10,11 +10,11 @@ order the Godot plushi :)
 ## 24-06-24
 
 Godot research and daily business
-
+-->
 ## 20-06-24
 
 yeahaa! 4th place on #Trijam
--->
+
 ## 18-06-24
 
 play testing and rating other entries
