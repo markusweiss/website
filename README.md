@@ -1,4 +1,8 @@
 <!--
+## 12-07-2024
+
+thinking about another GameJam
+
 ## 08-07-2024
 
 working on template again
