@@ -1,4 +1,8 @@
 <!--
+## 13-07-2024
+
+working on shaders
+
 ## 12-07-2024
 
 thinking about another GameJam
