@@ -1,9 +1,13 @@
 <!--
-## 13-07-2024
+## 14-07-24
+
+starting mini project
+
+## 13-07-24
 
 working on shaders
 
-## 12-07-2024
+## 12-07-24
 
 thinking about another GameJam
 
