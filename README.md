@@ -1,7 +1,11 @@
 <!--
+## 15-07-24
+
+send game to GameJam
+
 ## 14-07-24
 
-starting mini project
+starting on TriJam#278
 
 ## 13-07-24
 
