@@ -1,4 +1,8 @@
 <!--
+## 16-07-24
+
+play testing and rating other entries
+
 ## 15-07-24
 
 send game to GameJam
