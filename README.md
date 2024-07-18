@@ -26,11 +26,11 @@ working on template again
 ## 02-07-24
 
 testing and rating #Trijam games again
-
+-->
 ## 28-06-24
 
 order the Godot plushi :)
--->
+
 ## 24-06-24
 
 Godot research and daily business
