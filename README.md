@@ -1,4 +1,8 @@
 <!--
+## 19-07-24
+
+in holiday mode
+
 ## 16-07-24
 
 play testing and rating other entries
