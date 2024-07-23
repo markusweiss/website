@@ -34,11 +34,11 @@ working on shaders
 ## 12-07-24
 
 thinking about another GameJam
-
+-->
 ## 08-07-2024
 
 working on template again
--->
+
 ## 02-07-24
 
 testing and rating #Trijam games again
