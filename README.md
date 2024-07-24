@@ -1,4 +1,8 @@
 <!--
+## 23-07-24
+
+game rework done
+
 ## 22-07-24
 
 reworking GameJam entry
@@ -30,11 +34,11 @@ starting on TriJam#278
 ## 13-07-24
 
 working on shaders
-
+-->
 ## 12-07-24
 
 thinking about another GameJam
--->
+
 ## 08-07-2024
 
 working on template again
