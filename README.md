@@ -30,11 +30,11 @@ send game to GameJam
 ## 14-07-24
 
 starting on TriJam#278
-
+-->
 ## 13-07-24
 
 working on shaders
--->
+
 ## 12-07-24
 
 thinking about another GameJam
