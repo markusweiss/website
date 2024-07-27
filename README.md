@@ -30,11 +30,11 @@ decision ti cancel jam and do a rework
 ## 16-07-24
 
 play testing and rating other entries
-
+-->
 ## 15-07-24
 
 send game to GameJam
--->
+
 ## 14-07-24
 
 starting on TriJam#278
