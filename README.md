@@ -26,11 +26,12 @@ in holiday mode
 ## 18-07-24
 
 decision ti cancel jam and do a rework
+-->
 
 ## 16-07-24
 
 play testing and rating other entries
--->
+
 ## 15-07-24
 
 send game to GameJam
