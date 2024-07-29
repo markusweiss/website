@@ -22,11 +22,11 @@ working on sound by distance
 ## 19-07-24
 
 in holiday mode
+-->
 
 ## 18-07-24
 
-decision ti cancel jam and do a rework
--->
+decision to cancel jam and do a rework
 
 ## 16-07-24
 
