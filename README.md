@@ -1,7 +1,7 @@
 <!--
 ## 31-07-24
 
- 🥳 one year game dev 🥳
+🥳 one year game dev 🥳
 
 ## 24-07-24
 
@@ -21,7 +21,7 @@ testing and fixing sound by distance
 -->
 ## 20-07-24
 
-working on sound by distance
+working on sound by distance 🥳
 
 ## 19-07-24
 
