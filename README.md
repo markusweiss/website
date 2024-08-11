@@ -7,6 +7,10 @@ planning app update
 
 tryout Godot 4.3 RC2
 
+## 06-08-24
+
+scribble new app concept
+
 ## 03-08-24
 
 -->
@@ -15,7 +19,6 @@ welcome to work
 ## 31-07-24
 
 🥳 one year game dev 🥳
-
 
 ## 24-07-24
 
