@@ -1,16 +1,21 @@
 <!--
+## 10-08-24
+
+planning app update
+
 ## 08-08-24
 
 tryout Godot 4.3 RC2
 
 ## 03-08-24
 
+-->
 welcome to work
 
 ## 31-07-24
 
 🥳 one year game dev 🥳
--->
+
 
 ## 24-07-24
 
