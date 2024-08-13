@@ -1,4 +1,8 @@
 <!--
+## 13-08-24
+
+waiting for Godot 4.3 release
+
 ## 10-08-24
 
 planning app update
