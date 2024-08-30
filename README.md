@@ -1,4 +1,8 @@
 <!--
+## 30-08-24
+
+new setup for Android export
+
 ## 24-08-24
 
 watching Tutorials
