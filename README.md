@@ -1,4 +1,8 @@
 <!--
+## 31-08-24
+
+fighting with export and Java version
+
 ## 30-08-24
 
 new setup for Android export
