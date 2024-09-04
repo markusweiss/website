@@ -1,4 +1,12 @@
 <!--
+## 03-09-24
+
+wow, google was fast this time, its live!
+
+## 02-09-24
+
+update Android version with Godot 4.3
+
 ## 31-08-24
 
 fighting with export and Java version
