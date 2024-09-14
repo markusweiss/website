@@ -11,10 +11,10 @@ update Android version with Godot 4.3
 
 fighting with export and Java version
 
+-->
 ## 30-08-24
 
 new setup for Android export
--->
 
 ## 24-08-24
 
