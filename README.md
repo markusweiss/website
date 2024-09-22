@@ -2,11 +2,11 @@
 ## 15-09-24
 
 game dev pause
-
+-->
 ## 03-09-24
 
 wow, google was fast this time, its live!
--->
+
 ## 02-09-24
 
 update Android version with Godot 4.3
