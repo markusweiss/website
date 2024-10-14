@@ -1,7 +1,12 @@
 <!--
+## 10-10-24
+
+Changed infos on personal website
+
 ## 04-10-24
 
 Godot plushi is here and its cute
+
 -->
 ## 03-10-24
 
