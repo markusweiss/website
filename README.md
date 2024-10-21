@@ -1,11 +1,16 @@
 <!--
+## 22-10-24
+
+back from vacation
+
 ## 20-10-24
 
-Voting GameJam games
+playing GameJam games
+
 -->
 ## 10-10-24
 
-Changed infos on personal website
+changed infos on personal website
 
 ## 04-10-24
 
