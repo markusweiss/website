@@ -10,12 +10,11 @@ working on jam template
 ## 22-10-24
 
 back from vacation
-
+-->
 ## 20-10-24
 
 playing GameJam games
 
--->
 ## 10-10-24
 
 changed infos on personal website
