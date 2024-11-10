@@ -1,4 +1,8 @@
 <!--
+## 02-11-24
+
+ more daily business
+
 ## 29-10-24
 
 it's a special commit day for me
