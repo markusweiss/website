@@ -1,7 +1,7 @@
 <!--
 ## 16-11-24
 
-checking asprite tutorials
+checking aseprite tutorials
 
 ## 02-11-24
 
