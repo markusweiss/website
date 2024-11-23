@@ -1,7 +1,7 @@
 <!--
 ## 23-11-24
 
-planing new jam
+planing weekend for a new jam
 
 ## 22-11-24
 
