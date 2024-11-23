@@ -1,11 +1,8 @@
 <!--
-## 23-11-24
-
-planing weekend for a new jam
 
 ## 22-11-24
 
-working on podcast again
+been a podcast guest again
 
 ## 16-11-24
 
