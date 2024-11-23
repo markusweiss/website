@@ -1,4 +1,12 @@
 <!--
+## 23-11-24
+
+planing new jam
+
+## 22-11-24
+
+working on podcast again
+
 ## 16-11-24
 
 checking aseprite tutorials
