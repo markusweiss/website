@@ -1,12 +1,16 @@
 <!--
+## 08-12-24
+
+playing and testing more game jam games
+
 ## 24-11-24
 
 planning to attend a new game jam
-
+-->
 ## 22-11-24
 
 been a podcast guest again
--->
+
 ## 16-11-24
 
 checking aseprite tutorials
