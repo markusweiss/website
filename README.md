@@ -1,12 +1,17 @@
 <!--
+## 14-12-24
+
+preparing for holidays no more plans
+
 ## 08-12-24
 
 playing and testing more game jam games
+-->
 
 ## 24-11-24
 
 planning to attend a new game jam
--->
+
 ## 22-11-24
 
 been a podcast guest again
