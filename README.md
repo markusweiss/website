@@ -5,7 +5,7 @@ back in office
 
 ## 01-01-25
 
-happy new year 🎆
+🎆 happy new year 🎇
 
 ## 23-12-24
 
@@ -40,6 +40,10 @@ checking aseprite tutorials
 ## 02-11-24
 
 more daily business
+
+## 31-10-24
+
+🎃 happy helloween 🎃
 
 ## 29-10-24
 
