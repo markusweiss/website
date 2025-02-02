@@ -1,10 +1,12 @@
 <!--
 
-## 02-02-25
+## 04-02-25
 
 searching for GameJam ideas
 
-Deploy bug test
+## 02-02-25
+
+fixing github action
 
 -->
 
