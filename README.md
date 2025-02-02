@@ -1,10 +1,14 @@
 <!--
 
+## 02-02-25
+
+searching for GameJam ideas
+
+-->
+
 ## 26-01-25
 
 testing GameJam games
-
--->
 
 ## 06-01-25
 
