@@ -1,10 +1,15 @@
 <!--
+## 09-03-25
 
+migrating template to Godot 4.4
+
+## 08-03-25
+
+finally working on Godot Template
+-->
 ## 09-02-25
 
-testing morre  GameJam games
-
--->
+testing more GameJam games
 
 ## 04-02-25
 
