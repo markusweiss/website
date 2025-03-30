@@ -1,7 +1,7 @@
 <!--
 ## 30-03-25
 
-too much working load for new project :(
+work on music, master and sfx options
 
 ## 23-03-25
 
