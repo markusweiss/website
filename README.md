@@ -1,4 +1,8 @@
 <!--
+## 08-04-25
+
+making demo to scale sprites on bass effect
+
 ## 07-04-25
 
 working on sound effekts
