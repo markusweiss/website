@@ -1,7 +1,7 @@
 <!--
 ## 11-04-25
 
-making sprites with aseprite
+making animations and assets with aseprite
 
 ## 08-04-25
 
