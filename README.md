@@ -6,11 +6,12 @@ making animations and assets with aseprite
 ## 08-04-25
 
 making demo to scale sprites on bass effect
+-->
 
 ## 07-04-25
 
 working on sound effekts
--->
+
 ## 06-04-25
 
 testing a flyswatter mechanic for template
