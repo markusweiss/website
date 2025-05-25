@@ -1,7 +1,7 @@
 <!--
 ## 24-05-25
 
-updates to prototype
+gfx updates to prototype
 
 ## 18-05-25
 
