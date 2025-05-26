@@ -9,7 +9,7 @@ pixel some test gfx
 -->
 ## 15-05-25
 
-checking Playtore account
+checking Playstore account
 
 ## 10-05-25
 
