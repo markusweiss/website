@@ -1,4 +1,8 @@
 <!--
+## 28-05-25
+
+working on template sounds and gfx
+
 ## 24-05-25
 
 gfx updates to prototype
