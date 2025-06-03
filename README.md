@@ -1,4 +1,8 @@
 <!--
+## 03-06-25
+
+working on Mac an PC resolutions
+
 ## 01-06-25
 
 testing particle effects
