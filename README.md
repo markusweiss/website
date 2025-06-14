@@ -1,5 +1,17 @@
 <!--
-## 09-06#25
+## 14-06-25
+
+send release version google store
+
+## 13-06-25
+
+update app and Godot
+
+## 12-06-25
+
+prepare cookie app build
+
+## 09-06-25
 
 fix settings save audio and display bug
 
@@ -18,11 +30,11 @@ working on Mac an PC resolutions
 ## 01-06-25
 
 testing particle effects
-
+-->
 ## 30-05-25
 
 refactoring templates
--->
+
 ## 28-05-25
 
 working on template sounds and gfx
