@@ -26,11 +26,10 @@ working on DisplayManager
 ## 05-06-25
 
 add simple SceneManager
-
+-->
 ## 03-06-25
 
 working on Mac an PC resolutions
--->
 
 ## 01-06-25
 
