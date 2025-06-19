@@ -22,11 +22,11 @@ fix settings save audio and display bug
 ## 08-06-25
 
 working on DisplayManager 
-
+-->
 ## 05-06-25
 
 add simple SceneManager
--->
+
 ## 03-06-25
 
 working on Mac an PC resolutions
