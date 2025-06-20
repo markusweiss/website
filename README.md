@@ -1,4 +1,8 @@
 <!--
+## 19-06-25
+
+prototyping parachute
+
 ## 14-06-25
 
 add camera shake effect
