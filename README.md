@@ -18,11 +18,11 @@ send release version google store
 ## 12-06-25
 
 update app and Godot
-
+-->
 ## 11-06-25
 
 prepare cookie app build
--->
+
 ## 09-06-25
 
 fix settings save audio and display bug
