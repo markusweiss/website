@@ -14,11 +14,11 @@ add camera shake effect
 ## 13-06-25
 
 send release version google store
-
+-->
 ## 12-06-25
 
 update app and Godot
--->
+
 ## 11-06-25
 
 prepare cookie app build
