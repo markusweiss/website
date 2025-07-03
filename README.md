@@ -11,14 +11,18 @@ testing GameJam games
 
 prototyping parachute
 
+## 15-06-25
+
+new cookie app update now in palystore
+
 ## 14-06-25
 
 add camera shake effect
-
+-->
 ## 13-06-25
 
 send release version google store
--->
+
 ## 12-06-25
 
 update app and Godot
