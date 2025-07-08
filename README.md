@@ -1,4 +1,8 @@
 <!--
+## 07-07-25
+
+setup vitejs and kaboom.js for prototype
+
 ## 30-06-25
 
 checking out kaboom.js for website
