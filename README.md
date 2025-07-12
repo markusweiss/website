@@ -14,11 +14,11 @@ testing GameJam games
 ## 19-06-25
 
 prototyping parachute
-
+-->
 ## 15-06-25
 
 new cookie app update now in palystore
--->
+
 ## 14-06-25
 
 add camera shake effect
