@@ -1,4 +1,8 @@
 <!--
+## 13-07-25
+
+create simple tilemap with aseprite and tiled
+
 ## 07-07-25
 
 setup vitejs and kaboom.js for prototype
