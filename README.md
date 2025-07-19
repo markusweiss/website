@@ -167,6 +167,3 @@ back in office
 
 🎆 happy new year 🎇
 
-## 01-01-2024
-
-preparing logo and apps website
