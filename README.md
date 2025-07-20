@@ -22,11 +22,11 @@ checking out kaboom.js for website
 ## 22-06-25
 
 testing GameJam games
-
+-->
 ## 19-06-25
 
 prototyping parachute
--->
+
 ## 15-06-25
 
 new cookie app update now in playstore
