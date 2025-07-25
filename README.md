@@ -1,4 +1,8 @@
 <!--
+## 25-05-25
+
+do a lot of pixel stuff for new homepage
+
 ## 19-07-25
 
 working on vite app and sprites
