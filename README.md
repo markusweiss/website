@@ -1,5 +1,9 @@
 <!--
-## 25-05-25
+## 26-07-25
+
+do more pixel work today
+
+## 25-07-25
 
 do a lot of pixel stuff for new homepage
 
