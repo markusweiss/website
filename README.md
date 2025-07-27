@@ -26,11 +26,11 @@ setup vitejs and kaboom.js for prototype
 ## 30-06-25
 
 checking out kaboom.js for website
-
+-->
 ## 22-06-25
 
 testing GameJam games
--->
+
 ## 19-06-25
 
 prototyping parachute
