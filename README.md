@@ -1,4 +1,8 @@
 <!--
+## 29-07-25
+
+making sounds and more gfx optimization
+
 ## 26-07-25
 
 do more pixel work today
