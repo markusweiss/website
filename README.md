@@ -1,4 +1,8 @@
 <!--
+## 31-07-25
+
+testing and adding gfx to startpage
+
 ## 29-07-25
 
 making sounds and more gfx optimization
