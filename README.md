@@ -30,12 +30,11 @@ working on vite app and sprites
 ## 15-07-25
 
 create sprite charakter animation
-
+-->
 ## 13-07-25
 
 create simple tilemap with aseprite and tiled
 
--->
 ## 07-07-25
 
 setup vitejs and kaboom.js for prototype
