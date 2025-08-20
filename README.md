@@ -22,11 +22,12 @@ do more pixel work today
 ## 25-07-25
 
 do a lot of pixel stuff for new homepage
+-->
 
 ## 19-07-25
 
 working on vite app and sprites
--->
+
 ## 15-07-25
 
 create sprite charakter animation
