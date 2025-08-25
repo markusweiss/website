@@ -14,11 +14,11 @@ testing and adding gfx to startpage
 ## 29-07-25
 
 making sounds and more gfx optimization
-
+-->
 ## 26-07-25
 
 do more pixel work today
--->
+
 ## 25-07-25
 
 do a lot of pixel stuff for new homepage
