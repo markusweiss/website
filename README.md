@@ -1,4 +1,8 @@
 <!--
+## 07-09-25
+
+build table and radio sprite
+
 ## 04-09-25
 
 start working on sprites
