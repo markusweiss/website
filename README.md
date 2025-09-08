@@ -1,4 +1,8 @@
 <!--
+## 08-09-25
+
+build table and radio sprite
+
 ## 07-09-25
 
 build table and radio sprite
