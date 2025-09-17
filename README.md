@@ -1,4 +1,8 @@
 <!--
+## 16-09-25
+
+sound changes for mobile devices
+
 ## 15-09-25
 
 finalising beta status for webpage
