@@ -1,4 +1,8 @@
 <!--
+## 18-09-25
+
+optimising build prozess and scripts for webpage
+
 ## 16-09-25
 
 sound changes for mobile devices
