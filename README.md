@@ -1,4 +1,8 @@
 <!--
+## 29-09-25
+
+# one eye on Ludumdare
+
 ## 27-09-25
 
 git profile update
