@@ -1,7 +1,11 @@
 <!--
 ## 29-09-25
 
-# one eye on Ludumdare
+working on template, pause Manager and sound
+
+## 28-09-25
+
+one eye on Ludumdare
 
 ## 27-09-25
 
