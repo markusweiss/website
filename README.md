@@ -30,11 +30,11 @@ optimising build prozess and scripts for webpage
 ## 16-09-25
 
 sound changes for mobile devices
-
+-->
 ## 15-09-25
 
 finalising beta status for webpage
--->
+
 ## 13-09-25
 
 more pixel art and scripting
