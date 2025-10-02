@@ -1,4 +1,8 @@
 <!--
+## 01-10-25
+
+working on template and sound
+
 ## 30-09-25
 
 playing around with sound pitching
