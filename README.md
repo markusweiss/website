@@ -30,11 +30,12 @@ working on Design Document
 ## 18-09-25
 
 optimising build prozess and scripts for webpage
+-->
 
 ## 16-09-25
 
 sound changes for mobile devices
--->
+
 ## 15-09-25
 
 finalising beta status for webpage
