@@ -1,4 +1,8 @@
 <!--
+## 08-10-25
+
+working on audio manager
+
 ## 07-10-25
 
 checking out PixiEditor
