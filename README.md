@@ -1,4 +1,8 @@
 <!--
+## 09-10-25
+
+rework sound script
+
 ## 08-10-25
 
 working on audio manager
