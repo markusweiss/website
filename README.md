@@ -1,4 +1,8 @@
 <!--
+## 12-10-25
+
+cleanup and optimise sound and pause script
+
 ## 09-10-25
 
 rework sound script
