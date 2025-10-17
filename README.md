@@ -1,4 +1,8 @@
 <!--
+## 15-10-25
+
+prepare server and mail transfer
+
 ## 13-10-25
 
 working on settings menu
