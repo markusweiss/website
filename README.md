@@ -1,4 +1,8 @@
 <!--
+## 17-10-25
+
+preparing transfer domains
+
 ## 15-10-25
 
 prepare server and mail transfer
