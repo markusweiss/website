@@ -1,7 +1,11 @@
 <!--
-## 18-10-25
+## 19-10-25
 
 new website now live 🚀
+
+## 18-10-25
+
+finalise server transfer and website
 
 ## 17-10-25
 
