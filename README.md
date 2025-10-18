@@ -1,4 +1,8 @@
 <!--
+## 18-10-25
+
+new website now live 🚀
+
 ## 17-10-25
 
 preparing transfer domains
