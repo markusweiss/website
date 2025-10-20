@@ -1,13 +1,18 @@
 <!--
 ## 19-10-25
 
-new website now live 🚀
+partisipating on small gameJam
+
 
 ## 18-10-25
 
-finalise server transfer and website
+new website now live 🚀
 
 ## 17-10-25
+
+finalise server transfer and website
+
+## 16-10-25
 
 preparing transfer domains
 
