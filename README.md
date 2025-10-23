@@ -1,8 +1,11 @@
 <!--
+## 21-10-25
+
+voting and checking jam games
+
 ## 19-10-25
 
 partisipating on small gameJam
-
 
 ## 18-10-25
 
