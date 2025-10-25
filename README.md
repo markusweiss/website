@@ -62,11 +62,11 @@ working on template, pause Manager and sound
 ## 28-09-25
 
 one eye on Ludumdare
-
+-->
 ## 27-09-25
 
 git profile update
--->
+
 ## 26-09-25
 
 Website sound changes for IOS
