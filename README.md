@@ -1,4 +1,8 @@
 <!--
+## 02-11-25
+
+playing around with GB Studio
+
 ## 21-10-25
 
 voting and checking jam games
