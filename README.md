@@ -34,11 +34,11 @@ preparing transfer domains
 ## 15-10-25
 
 prepare server and mail transfer
-
+-->
 ## 13-10-25
 
 working on settings menu
--->
+
 ## 12-10-25
 
 cleanup and optimise sound and pause script
