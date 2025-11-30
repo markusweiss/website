@@ -26,11 +26,11 @@ new website now live 🚀
 ## 17-10-25
 
 finalise server transfer and website
-
+-->
 ## 16-10-25
 
 preparing transfer domains
--->
+
 ## 15-10-25
 
 prepare server and mail transfer
