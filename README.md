@@ -18,11 +18,11 @@ voting and checking jam games
 ## 19-10-25
 
 partisipating on small gameJam
-
+-->
 ## 18-10-25
 
 new website now live 🚀
--->
+
 ## 17-10-25
 
 finalise server transfer and website
