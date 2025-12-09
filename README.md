@@ -18,11 +18,11 @@ playing around with GB Studio
 ## 01-11-25
 
 add gameJam game to git
-
+-->
 ## 21-10-25
 
 voting and checking jam games
--->
+
 ## 19-10-25
 
 partisipating on small gameJam
