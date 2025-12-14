@@ -1,4 +1,8 @@
 <!--
+## 14-12-25
+
+testing merch
+
 ## 13-12-25
 
 checking up 2 other gameJams, not sure to start
