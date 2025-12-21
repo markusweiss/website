@@ -19,11 +19,12 @@ checking up 2 other gameJams, not sure to start
 
 checking 1 button jam
 
+-->
+
 ## 06-12-25
 
 Holiday and sick :(
 
--->
 ## 02-12-25
 
 remove api from cookie app
