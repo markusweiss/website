@@ -14,12 +14,10 @@ testing merch
 ## 13-12-25
 
 checking up 2 other gameJams, not sure to start
-
+-->
 ## 11-12-25
 
 checking 1 button jam
-
--->
 
 ## 06-12-25
 
