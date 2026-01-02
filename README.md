@@ -1,7 +1,11 @@
 <!--
-## 02-01-26
+## 03-01-26
 
 working on GDD for MVP
+
+## 02-01-26
+
+Brand research
 
 ## 01-01-26
 
