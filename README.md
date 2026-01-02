@@ -1,4 +1,8 @@
 <!--
+## 02-01-26
+
+working on GDD for MVP
+
 ## 01-01-26
 
 🎆 happy new year 🎇
