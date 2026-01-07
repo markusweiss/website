@@ -1,4 +1,8 @@
 <!--
+## 07-01-26
+
+first time working with codecks
+
 ## 03-01-26
 
 working on GDD for MVP
