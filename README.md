@@ -10,12 +10,12 @@ working on GDD for MVP
 ## 02-01-26
 
 Brand research
+-->
 
 ## 01-01-26
 
 🎆 happy new year 🎇
 
--->
 ## 27-12-25
 
 more side project stuff
