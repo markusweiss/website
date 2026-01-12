@@ -16,7 +16,7 @@ Brand research
 
 🎆 happy new year 🎇
 
-<--
+<!--
 ## 27-12-25
 
 more side project stuff
