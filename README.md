@@ -1,4 +1,8 @@
 <!--
+## 15-01-26
+
+setup server, ftp and mysql
+
 ## 07-01-26
 
 first time working with codecks
