@@ -1,6 +1,15 @@
 <!--
 
+## 06-02-26
+
+working on cookie app
+
+## 04-02-26
+
+working on translations
+
 -->
+
 ## 20-01-26
 
 meeting for prototype
