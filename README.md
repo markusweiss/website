@@ -2,11 +2,11 @@
 ## 14-02-26
 
 more translation work
-
+-->
 ## 09-02-26
 
 adding de, en, sp cookies to translation file
--->
+
 ## 06-02-26
 
 working on cookie app
