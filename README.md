@@ -1,4 +1,8 @@
 <!--
+## 21-02-26
+
+checking up gameJams
+
 ## 14-02-26
 
 more translation work
