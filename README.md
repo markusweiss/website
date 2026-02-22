@@ -1,12 +1,16 @@
 <!--
+## 22-02-26
+
+writing another GDD idea
+
 ## 21-02-26
 
 checking up gameJams
-
+-->
 ## 14-02-26
 
 more translation work
--->
+
 ## 09-02-26
 
 adding de, en, sp cookies to translation file
