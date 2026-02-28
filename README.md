@@ -1,7 +1,20 @@
 <!--
-## 22-02-26
 
-writing another GDD idea
+## 28-02-26
+
+gameJam making GFX
+
+## 27-02-26
+
+working on gameJam idea
+
+## 26-02-26
+
+gameJam protyping
+
+## 24-02-26
+
+making Game Design Document for gameJam
 
 ## 21-02-26
 
