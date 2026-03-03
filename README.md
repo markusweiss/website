@@ -1,4 +1,8 @@
 <!--
+## 02-03-26
+
+clean up jam stuff
+
 ## 01-03-26
 
 finally send entry to Jackie Jam #3
