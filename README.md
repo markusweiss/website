@@ -10,11 +10,11 @@ finally send entry to Jackie Jam #3
 ## 28-02-26
 
 gameJam making GFX
-
+-->
 ## 27-02-26
 
 working on gameJam idea
--->
+
 ## 26-02-26
 
 gameJam protyping
