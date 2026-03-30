@@ -1,4 +1,12 @@
 <!--
+## 30-03-26
+
+documentation and reworking gameJam game
+
+## 27-03-26
+
+building new Windows PC
+
 ## 09-03-26
 
 checking jam entries and voting
