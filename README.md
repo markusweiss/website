@@ -1,11 +1,19 @@
 <!--
 ## 30-03-26
 
-documentation and reworking gameJam game
+reworking gameJam game
 
 ## 27-03-26
 
 building new Windows PC
+
+## 22-03-26
+
+modify documentation gameJam entry
+
+## 21-03-26
+
+add gameJam entry to git repository
 
 ## 09-03-26
 
