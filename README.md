@@ -14,11 +14,11 @@ modify documentation gameJam entry
 ## 21-03-26
 
 add gameJam entry to git repository
-
+-->
 ## 09-03-26
 
 checking jam entries and voting
--->
+
 ## 02-03-26
 
 clean up jam stuff
