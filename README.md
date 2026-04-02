@@ -1,4 +1,8 @@
 <!--
+## 02-04-26
+
+do more gameJam rework
+
 ## 30-03-26
 
 reworking gameJam game
