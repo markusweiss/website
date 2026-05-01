@@ -1,4 +1,8 @@
 <!--
+## 30-04-26
+
+now i have css access on my itch account
+
 ## 26-04-26
 
 working on design document gdd
@@ -6,11 +10,11 @@ working on design document gdd
 ##17-04-26
 
 mail itch for css support
-
+-->
 ## 10-04-26
 
 do styling for itch page
--->
+
 ## 09-04-26
 
 add win and mac version
