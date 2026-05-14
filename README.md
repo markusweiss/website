@@ -1,9 +1,12 @@
 <!--
+## 14-05-26
+
+working on gdd for mvp
+-->
+
 ## 09-05-26
 
 cleaning up repos
-
--->
 
 ## 30-04-26
 
