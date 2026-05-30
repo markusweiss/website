@@ -19,10 +19,11 @@ working on catch and sell fish
 
 working on mvp signals
 
+-->
 ## 15-05-26
 
 initial mvp setup
--->
+
 ## 14-05-26
 
 migrating Template to 4.6.1
