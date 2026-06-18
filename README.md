@@ -1,4 +1,8 @@
 <!--
+## 18-06-26
+
+testing MVP React Application
+
 ## 13-06-26
 
 add fishing tries and reset per round
