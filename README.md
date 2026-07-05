@@ -1,7 +1,8 @@
 <!--
-## 02-07-26
 
-tbd.
+## 05-07-26
+
+spinning game more labels and bars
 
 -->
 
