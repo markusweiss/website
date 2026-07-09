@@ -6,12 +6,10 @@ add a shop scene
 ## 06-07-26
 
 bug and value fixing
-
+-->
 ## 05-07-26
 
 spinning game more labels and bars
-
--->
 
 ## 23-06-26
 
