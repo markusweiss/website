@@ -1,4 +1,8 @@
 <!--
+## 11-07-26
+
+bugfixing on shop
+
 ## 09-07-26
 
 working on shop
