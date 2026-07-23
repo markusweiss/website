@@ -1,11 +1,14 @@
 <!--
-## 20-07-26
+## 23-07-26
+more shop improvements and debugging 
 
+## 20-07-26
 shop testing
+
 -->
 ## 14-07-26
 
-bugfixing on shop
+bug fixed open shop twice
 
 ## 11-07-26
 
