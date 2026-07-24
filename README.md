@@ -1,8 +1,14 @@
 <!--
 ## 23-07-26
+
+balancing and testing shop 
+
+## 23-07-26
+
 more shop improvements and debugging 
 
 ## 20-07-26
+
 shop testing
 
 -->
