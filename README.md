@@ -2,11 +2,11 @@
 ## 27-07-26
 
 Holiday preparation
--->
-## 23-07-26
+
+## 25-07-26
 
 balancing and testing shop
-
+-->
 ## 23-07-26
 
 more shop improvements and debugging 
