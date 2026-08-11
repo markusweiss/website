@@ -1,4 +1,8 @@
 <!--
+## 11-08-26
+
+AI experiments
+
 ## 10-08-26
 
 start working on projects
