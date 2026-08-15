@@ -2,12 +2,12 @@
 ## 11-08-26
 
 Testing Mistral AI
-
+-->
 ## 10-08-26
 
 start working on projects
 
--->
+
 ## 04-08-26
 
 back from holiday break
