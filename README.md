@@ -1,5 +1,9 @@
 <!--
+## 17-08-26
+
+reorganize work life
 -->
+
 ## 11-08-26
 
 Testing Mistral AI
