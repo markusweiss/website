@@ -5,7 +5,7 @@ doing a lot of private stuff
 
 ## 17-08-26
 
-reorganize work life
+reorganize work stuff
 -->
 
 ## 11-08-26
