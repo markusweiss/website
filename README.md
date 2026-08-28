@@ -1,4 +1,8 @@
 <!--
+## 28-07-26
+
+package upgrade old AI project
+
 ## 27-07-26
 
 do prompting stuff
