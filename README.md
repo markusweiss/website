@@ -2,12 +2,11 @@
 ## 28-07-26
 
 package upgrade old AI project
-
+-->
 ## 27-07-26
 
 do prompting stuff
 
--->
 ## 17-08-26
 
 reorganize work related matters
