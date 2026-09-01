@@ -1,9 +1,13 @@
 <!--
-## 28-07-26
+## 31-08-26
+
+updating old react projects for vercel
+
+## 28-08-26
 
 package upgrade old AI project
 -->
-## 27-07-26
+## 27-08-26
 
 do prompting stuff
 
@@ -13,7 +17,7 @@ reorganize work related matters
 
 ## 11-08-26
 
-Testing Mistral AI
+testing Mistral AI
 
 ## 10-08-26
 
