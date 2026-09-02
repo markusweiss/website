@@ -1,4 +1,8 @@
 <!--
+## 02-09-26
+
+working on new prompt for react app
+
 ## 01-09-26
 
 rework tests from read rss demo
