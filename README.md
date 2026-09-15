@@ -1,11 +1,8 @@
 <!--
 ## 15-09-26
 
+some steam research
 
-
-## 13-09-26
-
-testing some steam stuff
 -->
 
 ## 04-09-26
