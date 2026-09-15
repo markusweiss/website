@@ -1,4 +1,8 @@
 <!--
+## 15-09-26
+
+
+
 ## 13-09-26
 
 testing some steam stuff
@@ -70,7 +74,7 @@ bug search on shop
 
 ## 09-07-26
 
-working on shop
+do more work on shop
 
 ## 08-07-26
 
