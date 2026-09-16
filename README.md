@@ -1,4 +1,8 @@
 <!--
+## 16-09-26
+
+offboarding?
+
 ## 15-09-26
 
 some steam research
