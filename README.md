@@ -1,7 +1,7 @@
 <!--
-## 16-09-26
+## 18-09-26
 
-offboarding?
+working on key scanner mvp
 
 ## 15-09-26
 
