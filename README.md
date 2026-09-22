@@ -2,11 +2,11 @@
 ## 20-09-26
 
 working with TensorFlow.js
-
+-->
 ## 18-09-26
 
 working on key scanner mvp
--->
+
 ## 15-09-26
 
 some steam research
