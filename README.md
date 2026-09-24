@@ -1,4 +1,8 @@
 <!--
+## 24-09-26
+
+scanner prototype improvement
+
 ## 20-09-26
 
 working with TensorFlow.js
