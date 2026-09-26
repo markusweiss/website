@@ -1,4 +1,8 @@
 <!--
+## 25-09-26 
+
+add k-NN algorithm (k-Nearest Neighbors)
+
 ## 24-09-26
 
 scanner prototype improvement
