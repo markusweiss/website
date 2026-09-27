@@ -1,4 +1,8 @@
 <!--
+## 27-09-26
+
+project meeting
+
 ## 25-09-26 
 
 add k-NN algorithm (k-Nearest Neighbors)
