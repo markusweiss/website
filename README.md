@@ -1,4 +1,8 @@
 <!--
+## 01-10-26
+
+this day is cursed :(
+
 ## 29-09-26
 
 more scanner prototype research and testing
