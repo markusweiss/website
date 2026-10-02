@@ -1,17 +1,17 @@
 <!--
-## 01-10-26
+## 02-10-26
 
-this day is cursed :(
+holiday planning
 
 ## 29-09-26
 
 more scanner prototype research and testing
-
+-->
 ## 27-09-26
 
 project meeting
 
--->
+
 ## 25-09-26 
 
 add k-NN algorithm (k-Nearest Neighbors)
