@@ -2,11 +2,11 @@
 ## 02-10-26
 
 holiday planning
-
+-->
 ## 29-09-26
 
 more scanner prototype research and testing
--->
+
 ## 27-09-26
 
 project meeting
