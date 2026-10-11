@@ -6,10 +6,8 @@ back to work again
 ## 04-20-26
 
 starting holiday trip
--->
-## 02-10-26
 
-holiday planning
+-->
 
 ## 29-09-26
 
