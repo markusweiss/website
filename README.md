@@ -2,12 +2,10 @@
 ## 09-10-26
 
 back to work again
-
+-->
 ## 04-20-26
 
 starting holiday trip
-
--->
 
 ## 29-09-26
 
@@ -16,7 +14,6 @@ more scanner prototype research and testing
 ## 27-09-26
 
 project meeting
-
 
 ## 25-09-26 
 
