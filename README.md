@@ -1,9 +1,14 @@
 <!--
+## 13-10-26
+
+planning with friends
+
 ## 09-10-26
 
 back to work again
 -->
-## 04-20-26
+
+## 04-10-26
 
 starting holiday trip
 
