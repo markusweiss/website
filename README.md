@@ -1,7 +1,7 @@
 <!--
-## 13-10-26
+## 14-10-26
 
-planning with friends
+game idea meeting with friend
 
 ## 09-10-26
 
