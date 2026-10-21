@@ -1,8 +1,12 @@
 <!--
+## 21-10-26
+
+working on rss feed
 ## 15-10-26
 
 testing viteplus
 -->
+
 ## 14-10-26
 
 game idea meeting with friend
