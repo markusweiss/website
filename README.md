@@ -2,11 +2,11 @@
 -->
 ## 21-10-26
 
-working on rss feed
+change rss server
 
 ## 15-10-26
 
-infos about viteplus
+testing viteplus
 
 ## 14-10-26
 
