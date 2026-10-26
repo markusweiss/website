@@ -1,5 +1,9 @@
 <!--
 -->
+## 26-10-26
+
+app preparation and planning 
+
 ## 21-10-26
 
 change rss server
