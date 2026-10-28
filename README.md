@@ -1,10 +1,10 @@
 <!--
-
 ## 26-10-26
 
-app preparation and planning 
+evaluating new app
 
 -->
+
 ## 21-10-26
 
 change rss server
