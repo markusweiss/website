@@ -1,4 +1,8 @@
 <!--
+## 29-10-26
+
+try to setup new Mac
+
 ## 26-10-26
 
 evaluating new app
