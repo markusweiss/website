@@ -1,7 +1,7 @@
 <!--
-## 29-10-26
+## 31-10-26
 
-try to setup new Mac
+backup and setup MacBook
 
 ## 26-10-26
 
