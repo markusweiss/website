@@ -6,12 +6,10 @@ had a flue now i'm back on track
 ## 31-10-26
 
 backup and setup MacBook
-
+-->
 ## 26-10-26
 
 evaluating new app
-
--->
 
 ## 21-10-26
 
