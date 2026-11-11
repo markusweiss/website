@@ -1,8 +1,8 @@
 <!--
 
-## 09-11-26
+## 11-11-26
 
-had a flue now i'm really back on track
+waiting for fiberglas connection
 
 -->
 ## 31-10-26
