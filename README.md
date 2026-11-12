@@ -1,8 +1,8 @@
 <!--
 
-## 11-11-26
+## 12-11-26
 
-waiting for fiberglas connection
+had a flue for about 10 Days
 
 -->
 ## 31-10-26
