@@ -1,15 +1,20 @@
 <!--
+## 20-11-26
+
+fixing friends website
+
 ## 19-11-26
 
-fixing git action
+team breakfast meeting
 
 ## 16-11-26
 
-working on private cooking app
+working on cooking app
+
 -->
 ## 15-11-26 
 
-writing docs
+optimising docs
 
 ## 14-11-26
 
