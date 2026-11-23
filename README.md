@@ -1,4 +1,8 @@
 <!--
+## 23-11-26
+
+content update for friends website
+
 ## 21-10-26
 
 project meeting
